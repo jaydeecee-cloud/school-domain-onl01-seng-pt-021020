@@ -1,1 +1,0 @@
-school = School.new
